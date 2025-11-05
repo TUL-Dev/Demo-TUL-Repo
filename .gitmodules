@@ -1,0 +1,3 @@
+[submodule "submodule"]
+	path = submodule
+	url = https://github.com/Yuanshan-Wu/TUL_private_repo.git

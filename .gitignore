@@ -1,0 +1,23 @@
+# Git Practice Repository - .gitignore
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor/IDE Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Personal practice files (optional - uncomment if needed)
+# practice-files/personal-*
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp

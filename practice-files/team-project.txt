@@ -1,0 +1,24 @@
+Team Project Practice File
+=========================
+
+This file is for practicing collaborative Git workflows.
+
+Team Members:
+- (Add your name here)
+
+Project Goals:
+- Learn Git basics
+- Practice branching and merging
+- Master pull requests
+- Handle merge conflicts
+
+Instructions:
+1. Create a branch with your name
+2. Add your name to the Team Members list
+3. Commit your changes
+4. Create a pull request
+5. Review another team member's PR
+
+Notes:
+-----
+Write any notes or learnings here!

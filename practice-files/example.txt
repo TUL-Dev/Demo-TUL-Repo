@@ -1,0 +1,11 @@
+Welcome to the Git Practice Repository!
+
+This is an example file to help you practice Git commands.
+
+Feel free to:
+- Create new files in this directory
+- Modify this file
+- Practice branching and merging
+- Experiment with Git workflows
+
+Remember: This is a safe space to learn and make mistakes!

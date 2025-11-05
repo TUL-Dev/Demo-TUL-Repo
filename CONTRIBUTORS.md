@@ -13,9 +13,4 @@ Thank you to everyone who has contributed to this Git practice repository!
 ## List of Contributors
 
 <!-- Add your name below in alphabetical order by first name -->
-
-- **Your Name Here** - [GitHub Profile](https://github.com/yourusername) - Date joined
-
-<!-- Example:
-- **Jane Doe** - [GitHub Profile](https://github.com/janedoe) - January 2025
--->
+Yuanshan Wu - Nov 4th
